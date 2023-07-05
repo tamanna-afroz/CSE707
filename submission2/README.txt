@@ -8,7 +8,7 @@ Paper title:
 Research on the application of Deep Learning Algorithm in Image Classification 
 
 Link to the paper:
-https://ieeexplore......
+https://ieeexplore.ieee.org/document/9421185
 
 Group Number:
 2
