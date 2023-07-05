@@ -1,17 +1,17 @@
-Link to the unlisted YouTube video:
-https://youtube.com/.....
+Link to unlisted YouTube video:
+https://youtu.be/CYwai-hWpSY
 
-Public link to the slide (Anyone on the internet can view it without logging in):
-https://docs.google.com/presentation/.....
+Public link to the slide (Anyone on the internet can view without login):
+https://docs.google.com/presentation/d/12Gmj7MaMbpHSGgmg7XpxHTkLYqnf01qiSX2f3_j77Go/edit?usp=sharing
 
 Paper title:
-Sentiment Analysis using Machine Learning and Deep Learning
+Research on the application of Deep Learning Algorithm in Image Classification 
 
 Link to the paper:
-https://ieeexplore.ieee.org/document/9083703
+https://ieeexplore......
 
 Group Number:
-0
+2
 
 Individual Submitter:
 23366033 Tamanna Afroz
